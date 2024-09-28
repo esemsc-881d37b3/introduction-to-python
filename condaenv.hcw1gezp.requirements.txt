@@ -1,0 +1,7 @@
+jupyterlab
+numpy
+matplotlib
+pendulum
+okpy
+pybryt>=0.7.0
+pytest
